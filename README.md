@@ -1,2 +1,2 @@
 # generate-barcode
-This is web application which will generate barcode.
+Barcode Generate Using Python and implemented in Django
